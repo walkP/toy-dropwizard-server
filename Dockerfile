@@ -18,4 +18,3 @@ EXPOSE 8085
 EXPOSE 8081
 
 CMD ["java", "-jar","hello-friends-1.0-SNAPSHOT.jar","server","hello-world.yml"]
-
